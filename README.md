@@ -1,5 +1,5 @@
 # Weekly-Reading
-> A curated list of articles, papers, and other materials for every week.
+> A curated list of articles, papers, books and other materials for every week.
 
 - **05/06 - 11/06**
   - [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)

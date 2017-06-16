@@ -11,3 +11,4 @@
 - **19/06 - 25/06**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   - [Static vs. dynamic languages: a literature review](https://danluu.com/empirical-pl/)
+  - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read#buildingblocks)

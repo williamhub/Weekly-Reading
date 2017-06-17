@@ -9,6 +9,9 @@
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
 
 - **19/06 - 25/06**
-  - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   - [Static vs. dynamic languages: a literature review](https://danluu.com/empirical-pl/)
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Charpter 2 - 4
   - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read#buildingblocks)
+  
+- **26/06 - 02/07**
+  - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

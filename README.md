@@ -11,6 +11,7 @@
 - **19/06 - 25/06**
   - [Static vs. dynamic languages: a literature review](https://danluu.com/empirical-pl/)
   - [Haskell Programming From First Principles](http://haskellbook.com/) Charpter 2 - 4
+  - [CIS 194: Introduction to Haskell (Fall 2016)](http://www.seas.upenn.edu/~cis194/fall16/)
   - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read#buildingblocks)
   
 - **26/06 - 02/07**

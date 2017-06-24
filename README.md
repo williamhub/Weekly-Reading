@@ -13,6 +13,9 @@
   - [Haskell Programming From First Principles](http://haskellbook.com/) Charpter 2 - 6
   
 - **26/06 - 02/07**
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 7 `More Functional patterns`,  Charpter 11 `algebraic datatypes`, Chapter 12 `Signaling adversity`
+  
+- **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   - [CIS 194: Introduction to Haskell (Fall 2016)](http://www.seas.upenn.edu/~cis194/fall16/)
   - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read#buildingblocks)

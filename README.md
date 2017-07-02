@@ -16,6 +16,9 @@
   - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 7 `More Functional patterns`,  Charpter 11 `algebraic datatypes`
   
 - **03/07 - 09/07**
+  - Review [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 11
+  - [Expert Python Programming](http://packtpub.ooops.me/2017/04/04/Expert_Python_Programming.pdf) Chapter 2 `Syntax Best Practices -- Below the Class Level`, Chapter 3 `Syntax Best Practices -- Above the Class Level`, Chapter 13 `Optimization: Solutions`, Chapter 14 `Useful Design Patterns`
+  - [Effective Python](http://www.effectivepython.com/) Chapter 5 `Concurrency and Parallelism`
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

@@ -13,8 +13,9 @@
   - [Haskell Programming From First Principles](http://haskellbook.com/) Charpter 2 - 6
   
 - **26/06 - 02/07**
-  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 7 `More Functional patterns`,  Charpter 11 `algebraic datatypes`, Chapter 12 `Signaling adversity`
-  - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) 2 `Types and Functions`
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 7 `More Functional patterns`,  Charpter 11 `algebraic datatypes`
+  
+- **03/07 - 09/07**
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
@@ -22,3 +23,4 @@
   - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read#buildingblocks)
   - [Types and Programming Languages](http://www.seas.upenn.edu/~bcpierce/tapl/)
   - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) 2 `Types and Functions`

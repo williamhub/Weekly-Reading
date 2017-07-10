@@ -17,7 +17,10 @@
   
 - **03/07 - 09/07**
   - Review [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 11
-  - [Expert Python Programming](http://packtpub.ooops.me/2017/04/04/Expert_Python_Programming.pdf) Chapter 2 `Syntax Best Practices -- Below the Class Level`, Chapter 3 `Syntax Best Practices -- Above the Class Level`, Chapter 13 `Optimization: Solutions`, Chapter 14 `Useful Design Patterns`
+  - [Expert Python Programming](http://packtpub.ooops.me/2017/04/04/Expert_Python_Programming.pdf) Chapter 2 `Syntax Best Practices -- Below the Class Level`, Chapter 3 `Syntax Best Practices -- Above the Class Level`, Chapter 13 `Optimization: Solutions`
+
+- **10/07 - 16/07**
+  - [Expert Python Programming](http://packtpub.ooops.me/2017/04/04/Expert_Python_Programming.pdf) Chapter 14 `Useful Design Patterns`
   - [Effective Python](http://www.effectivepython.com/) Chapter 5 `Concurrency and Parallelism`
   
 - **Todo List**

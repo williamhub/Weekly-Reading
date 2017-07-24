@@ -27,9 +27,17 @@
   - [Types and Programming Languages](http://www.seas.upenn.edu/~bcpierce/tapl/)
   - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) 2 `Types and Functions`
   
+- **24/07 - 30/07**
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 15 `Monoid, Semigroup`
+  - [Effective Python](http://www.effectivepython.com/) Chapter 2 `Functions`
+  
+  
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   - [CIS 194: Introduction to Haskell (Fall 2016)](http://www.seas.upenn.edu/~cis194/fall16/)
   - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read#buildingblocks)
   - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  - [The Go Memory Model](https://golang.org/ref/mem)
+  - [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
+  - [The Go Programming Language](https://www.safaribooksonline.com/library/view/the-go-programming/9780134190570/)
   

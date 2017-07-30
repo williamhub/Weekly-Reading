@@ -30,7 +30,11 @@
 - **24/07 - 30/07**
   - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 15 `Monoid, Semigroup`
   - [Effective Python](http://www.effectivepython.com/) Chapter 2 `Functions`
-  
+
+- **31/07 - 06/08**
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 16 `Functor`
+  - [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/Coroutines.pdf)
+  - [The Future of Computing: Logic or Biology](http://lamport.azurewebsites.net/pubs/future-of-computing.pdf)
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

@@ -34,6 +34,9 @@
 - **31/07 - 06/08**
   - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 16 `Functor`
   - [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/Coroutines.pdf)
+  
+- **07/08 - 13/08**
+  - Review [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 16 `Functor`
   - [The Future of Computing: Logic or Biology](http://lamport.azurewebsites.net/pubs/future-of-computing.pdf)
   - [The Reader Monad](https://hackernoon.com/the-reader-monad-part-1-1e4d947983a8)
   

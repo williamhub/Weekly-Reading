@@ -38,7 +38,9 @@
 - **07/08 - 13/08**
   - Review [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 16 `Functor`
   - [The Future of Computing: Logic or Biology](http://lamport.azurewebsites.net/pubs/future-of-computing.pdf)
-  - [The Reader Monad](https://hackernoon.com/the-reader-monad-part-1-1e4d947983a8)
+
+- **14/08 - 20/08**
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 17 `Applicative`
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
@@ -48,4 +50,5 @@
   - [The Go Memory Model](https://golang.org/ref/mem)
   - [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
   - [The Go Programming Language](https://www.safaribooksonline.com/library/view/the-go-programming/9780134190570/)
+  - [The Reader Monad](https://hackernoon.com/the-reader-monad-part-1-1e4d947983a8)
   

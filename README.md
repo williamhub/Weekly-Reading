@@ -42,6 +42,11 @@
 - **14/08 - 20/08**
   - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 17 `Applicative`
   
+- **21/08 - 27/08**
+
+- **28/08 - 03/09**
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 17 `Applicative`
+  
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   - [CIS 194: Introduction to Haskell (Fall 2016)](http://www.seas.upenn.edu/~cis194/fall16/)

@@ -40,12 +40,14 @@
   - [The Future of Computing: Logic or Biology](http://lamport.azurewebsites.net/pubs/future-of-computing.pdf)
 
 - **14/08 - 20/08**
-  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 17 `Applicative`
+  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 17 `Applicative` (unfinished)
   
 - **21/08 - 27/08**
 
 - **28/08 - 03/09**
-  - [Haskell Programming From First Principles](http://haskellbook.com/) Chapter 17 `Applicative`
+
+- **04/09 - 10/09**
+  - [How to work with dates and time with Python](https://opensource.com/article/17/5/understanding-datetime-python-primer)
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

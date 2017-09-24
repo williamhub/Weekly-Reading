@@ -48,6 +48,13 @@
 
 - **04/09 - 10/09**
   - [How to work with dates and time with Python](https://opensource.com/article/17/5/understanding-datetime-python-primer)
+
+- **11/09 - 17/09**
+
+- **18/09 - 24/09**
+
+- **25/09 - 01/10**
+  - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

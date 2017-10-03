@@ -55,6 +55,10 @@
 
 - **25/09 - 01/10**
   - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
+
+- **02/10 - 08/10**
+  - [Streaming Architecture](https://mapr.com/ebooks/streaming-architecture/)
+  - [A Survey of Distributed Message Broker Queues](https://arxiv.org/pdf/1704.00411.pdf)
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

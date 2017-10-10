@@ -59,6 +59,9 @@
 - **02/10 - 08/10**
   - [A Survey of Distributed Message Broker Queues](https://arxiv.org/pdf/1704.00411.pdf)
   - [Implementing Pub/Sub based on AWS technologies](https://www.infoq.com/articles/AmazonPubSub)
+
+- **09/10 - 15/10**
+  - [Microservices From Design To Deployment](http://blog.itexus.com/books/Microservices_Designing_Deploying.pdf)
   
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

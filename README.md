@@ -72,4 +72,5 @@
   - [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
   - [The Go Programming Language](https://www.safaribooksonline.com/library/view/the-go-programming/9780134190570/)
   - [The Reader Monad](https://hackernoon.com/the-reader-monad-part-1-1e4d947983a8)
+  - Turing Lecture: The Computer Science of Concurrency: The Early Years
   

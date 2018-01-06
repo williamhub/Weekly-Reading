@@ -1,6 +1,7 @@
 # Weekly-Reading
 > A curated list of articles, papers, books and other materials for every week.
 
+## Year 2017
 - **05/06 - 11/06**
   - [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
   - [Google API Design Guide](https://cloud.google.com/apis/design/)
@@ -62,7 +63,12 @@
 
 - **09/10 - 15/10**
   - [Microservices From Design To Deployment](http://blog.itexus.com/books/Microservices_Designing_Deploying.pdf)
-  
+
+## Year 2018
+- **01/01 - 07/01**
+  - [Seven Concurrency Models in Seven Weeks: When Threads Unravel](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
+  - [Robust JavaScript](https://molily.de/robust-javascript/)
+
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   - [CIS 194: Introduction to Haskell (Fall 2016)](http://www.seas.upenn.edu/~cis194/fall16/)

@@ -71,7 +71,8 @@
 
 - **08/01 - 31/01**
   - [Seven More Languages in Seven Weeks](https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks)
-  - [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
+  - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
+
 
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

@@ -74,7 +74,9 @@
   - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
 
 - **01/02 - 28/01**
-  - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) Functor, Monad
+  - Understand Functor, Applicative, Monad
+    - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) Functor, Applicative, Monad
+    - [Real World Haskell](http://book.realworldhaskell.org/read/using-typeclasses.html) Typecalss
 
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

@@ -77,6 +77,8 @@
   - Understand Functor, Applicative, Monad
     - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) Functor, Applicative, Monad
     - [Real World Haskell](http://book.realworldhaskell.org/read/using-typeclasses.html) Typecalss
+  - [Node.js High Performance](http://pepa.holla.cz/wp-content/uploads/2016/12/Node.js-High-Performance.pdf)
+  - [Node.js Design Patterns](https://github.com/xingbofeng/Node.js-Design-Patterns-Second-Edition/blob/master/Node.js%20Design%20Patterns%20Second%20Edition.pdf)
 
 - **Todo List**
   - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
